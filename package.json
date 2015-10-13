@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mschow/todo-app#readme",
   "devDependencies": {
+    "express": "^4.13.3",
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
     "gulp-htmlmin": "^1.2.0",
