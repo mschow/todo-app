@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/mschow/todo-app/issues"
   },
-  "homepage": "https://github.com/mschow/todo-app#readme"
+  "homepage": "https://github.com/mschow/todo-app#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-htmlmin": "^1.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.4.1"
+  }
 }
